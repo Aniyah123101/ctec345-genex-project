@@ -3,7 +3,7 @@
 # 🛡️ Genex Services – Secure Network Architecture & Cybersecurity Strategy
 
 **Author:** Aniyah Hall  
-**Course:** CTEC 345 – Foundations of Computer and Network Security  
+**Course:** CTEC 345 – Foundations of Computer and Network Securit
 **Instructor:** Professor Latson  
 **Institution:** Bowie State University  
 **Project Status:** ✅ Completed  
